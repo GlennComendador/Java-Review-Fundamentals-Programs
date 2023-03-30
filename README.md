@@ -1,4 +1,4 @@
-# NON-GUI-Review-Programs
+# Java-Review-Fundamentals-Programs
 Compilation of Programs that focuses on Arrays and Strings Exercises, Plus Three Simple Programs. All are created as a Refresher of Java.
 
 You may check the src Folder to view the codes.
