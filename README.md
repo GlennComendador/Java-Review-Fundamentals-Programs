@@ -5,7 +5,7 @@ You may check the src Folder to view the codes.
 
 This Repository contains the following:
 
-1. ArrayExercises
+**1. ArrayExercises**
 
    Allows the user to:
         1. The 10 Numbers will be added with each other for Sum
@@ -17,18 +17,18 @@ This Repository contains the following:
         7. Find Duplicates in the Array
         8. Rotate Array Contents Clockwise
    
-2. BMI Calculator
+**2. BMI Calculator**
    Allows user to know their BMI Number.
    BMI is used for the classification of their body type (Normal, Overweight, Obese, etc.).
    
-3. DisplayPrimeNumber
+**3. DisplayPrimeNumber**
    Allows user to know the prime number entered.
    
-4. StringExercise
+**4. StringExercise**
    Allows user to know the Length of the Entered Texts.
    Allows user to Reverse the Contents of the Entered Texts.
    
-5. SumOfDigits
+**5. SumOfDigits**
    Allows input numbers then adds it for the sum.
    
-   Thank you
+   Thank you!
